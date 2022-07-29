@@ -28,6 +28,11 @@ cms-meta-tools repo to `./cms_meta_tools` in the same directory as the `Makefile
 Charts are versioned in their `Chart.yaml` file. Released charts for public consumption to should
 only come from chart versions in the release/stable branch of this repository.
 
+## Changelog
+
+See the [CHANGELOG](CHANGELOG.md) for changes. This file uses the [Keep A Changelog](https://keepachangelog.com)
+format.
+
 ## Releases
 
 The charts in this repository are subcharts and do not follow the same versioning workflow as other CSM software.
