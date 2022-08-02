@@ -1,7 +1,8 @@
-# Full image including repo, e.g. dtr.dev.cray.com/cray/config-image:1.2.3
-#                                                   ^                 ^
-#                                                   |                 |
-#                                             ['repository]         [tag]
+# Full image including repo, e.g.:
+#  artifactory.algol60.net/csm-docker/stable/cray-csm-sles15sp3-barebones-recipe:1.2.3
+#                                       ^                                          ^
+#                                       |                                          |
+#                                 ['repository]                                  [tag]
 config_image:
   image:
     repository: ""
